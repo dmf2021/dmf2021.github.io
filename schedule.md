@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: schedule
+permalink: /schedule/
 ---
 
 Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
