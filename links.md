@@ -4,11 +4,12 @@ title: Links
 permalink: /links/
 ---
 
-# Table of Contents
+## Table of Contents
 1. [Course links](#part1)
 2. [Additional resources](#part2)
 2. [Nice cheatsheets!](#part3)
-
+<br /><br />
+___
 
 ## Course links <a name="part1"></a>
 <a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
@@ -19,7 +20,7 @@ permalink: /links/
 ## Additional resources <a name="part2"></a>
 <a href="https://kbroman.org/pkg_primer/" target="_blank">R packages, brief guide</a><br />
 <a href="https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf" target="_blank">Package development with devtools cheatsheet </a><br />
-<a href="https://www.rstudio.com/resources/cheatsheets/ " target="_blank">RStudio Cheatsheets</a>  (lots of them but also see below for a curated list!)<br />
+<a href="https://www.rstudio.com/resources/cheatsheets/ " target="_blank">RStudio Cheatsheets</a>  (lots of them!! See below for a curated list!)<br />
 <a href="r_tuto" target="_blank">Piazza</a>
 
  

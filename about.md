@@ -4,16 +4,17 @@ title: About
 permalink: /about/
 ---
 
-# Table of Contents
+## Table of Contents
 1. [Syllabus](#part1)
 2. [Schedule](#part2)
 3. [Finding help](#part3)
-4. [Mic](#part4)
+4. [Get in touch!](#part4)
+<br /><br />
 
-
+___
 
 ## Syllabus <a name="part1"></a>
-<a href="Fall2021INFO523_Aug.pdf" target="_blank">Here's the PDF</a>.
+<a href="https://dmf2021.github.io/Fall2021INFO523_Aug.pdf" target="_blank">Here's the PDF</a>.
 
 ## Schedule <a name="part2"></a>
 

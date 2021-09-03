@@ -15,7 +15,9 @@ permalink: /software/
 5. [Installing R Packages](#part7)
 5. [Brief intro to R](#part8)
 
+<br /><br />
 
+___
 
 ## Installing R and RStudio <a name="part1"></a>
 
@@ -78,7 +80,7 @@ Mod [from](https://socialsciences.mcmaster.ca/jfox/Courses/R/Western/R-install-i
 
 ## Brief intro to R <a name="part8"></a>
 
-Please click <a href="r_tuto.html" target="_blank">here</a> for a brief intro to R. We'll review these topics in class :). You can find more useful information <a href="https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf" target="_blank">here for advanced R</a> and <a href="http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf" target="_blank">here for base R</a>!
+Please click <a href="https://dmf2021.github.io/r_tuto.html" target="_blank">here</a> for a brief intro to R. We'll review these topics in class :). You can find more useful information <a href="https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf" target="_blank">here for advanced R</a> and <a href="http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf" target="_blank">here for base R</a>!
 
 
 
