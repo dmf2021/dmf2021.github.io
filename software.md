@@ -25,6 +25,8 @@ R and RStudio are both free, open-source software, available for all commonly us
 
 Please read and follow these instructions carefully.
 
+___
+
 
 ### Installing R on Windows <a name="part2"></a>
 
@@ -32,9 +34,18 @@ Visit the Comprehensive R Archive Network (CRAN) and select a mirror site; a lis
 
 Instead of installing R in the standard location, C:\Program Files\R\R-x.y.z, I suggest that you use C:\R\R-x.y.z. Again, x.y.z is the current version of R. This will allow you to install packages in the main R library without running R with administrator privileges and may avoid problems that sometimes occur when there are spaces in paths. Otherwise, we may take all of the defaults in the installer.
 
+
+___
+
+
+
 ### Installing R on macOS <a name="part3"></a>
 
 Visit the Comprehensive R Archive Network (CRAN) and select a mirror site; a list of CRAN mirrors appears at the upper left of the CRAN home page. I suggest that you use the 0-Cloud mirror, which is the first on the list. Click on the link Download R for MacOS X, which appears near the top of the page; then click on R-x.y.z.pkg (where x.y.z is the current version of R), which assumes that you are using macOS 10.11 (El Capitan) or higher. You'll also find some older version of R if you have an older version of macOS, but as a general matter, you're probably better off updating your macOS to the current version. Once it is downloaded, double-click on the R installer. You may take all of the defaults.
+
+
+___
+
 
 
 ### Installing X-Windows on macOS (Optional) <a name="part4"></a>
@@ -49,11 +60,21 @@ I assume that X11 isn't installed on your system but even if it is, installing t
 
             3. Important: After the installer runs, you'll have to log out and back on to your macOS account, or just reboot your Mac.
 
+
+___
+
+
+
 ### Installing R on Linux Systems <a name="part5"></a>
 
 Visit the Comprehensive R Archive Network (CRAN) and select a mirror site near you; a list of CRAN mirrors appears at the upper left of the CRAN home page. I suggest that you use the 0-Cloud mirror, which is the first on the list. Click on the link Download R for Linux, which appears near the top of the page. R is available for several Linux distributions (Debian, RedHat, SUSE, and Ubuntu); select your distribution, and proceed as directed.
 
 If you have a Linux or Unix system that's not compatible with one of these distributions, you will have to compile R from source code; the procedure for doing so is is described in the R FAQ (frequently asked questions) list.
+
+
+
+___
+
 
 
 ### Installing RStudio  <a name="part6"></a>
@@ -67,6 +88,11 @@ When you first run RStudio, it should detect your R installation and start the R
 Here's more info about RStudio: <a href="https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf" target="_blank">RStudio IDE cheatsheet</a>
 
 
+
+___
+
+
+
 ### Installing R Packages <a name="part7"></a>
 
 Once you have installed R and RStudio, you can install additional packages required for the course by typing the following command at the > command prompt in the R Console (and pressing the Enter or return key; but check RStudio):
@@ -76,6 +102,10 @@ install.packages(c("car", "effects", "knitr", "rgl", "rmarkdown"))
 You can simply copy and paste this command from these installation instructions. Alternatively, you can install packages from the RStudio Packages tab. Be aware that, depending on the speed of your internet connection, it may take some time to download and install these packages and their dependencies.
 
 Mod [from](https://socialsciences.mcmaster.ca/jfox/Courses/R/Western/R-install-instructions.html)
+
+
+___
+
 
 
 ## Brief intro to R <a name="part8"></a>

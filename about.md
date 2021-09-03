@@ -16,14 +16,26 @@ ___
 ## Syllabus <a name="part1"></a>
 <a href="https://dmf2021.github.io/Fall2021INFO523_Aug.pdf" target="_blank">Here's the PDF</a>.
 
+
+___
+
+
+
 ## Schedule <a name="part2"></a>
 
 **Working on this**
+
+
+___
+
 
 ## Finding help <a name="part3"></a>
 <a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
 <a href="r_tuto.html" target="_blank">D2L-UArizona (not updated)</a><br />
 <a href="http://cromanpa94.github.io/cromanpa/contact/" target="_blank">Cristian's info</a><br />
+
+___
+
 
 
 ## Also get in touch if... <a name="part4"></a>
