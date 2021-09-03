@@ -15,7 +15,7 @@ ___
 <a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
 <a href="r_tuto.html" target="_blank">D2L-UArizona (not updated)</a><br />
 <a href="r_tuto.html" target="_blank">Google Calendar (not updated)</a><br />
-<a href="http://cromanpa94.github.io/cromanpa/contact/l" target="_blank">Cristian's info</a><br />
+<a href="http://cromanpa94.github.io/cromanpa/contact/" target="_blank">Cristian's info</a><br />
 
 
 ___
