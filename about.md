@@ -8,6 +8,8 @@ permalink: /about/
 1. [Syllabus](#part1)
 2. [Schedule](#part2)
 3. [Finding help](#part3)
+4. [Mic](#part4)
+
 
 
 ## Syllabus <a name="part1"></a>
@@ -21,3 +23,13 @@ permalink: /about/
 <a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
 <a href="r_tuto.html" target="_blank">D2L-UArizona (not updated)</a><br />
 <a href="http://cromanpa94.github.io/cromanpa/contact/l" target="_blank">Cristian's info</a><br />
+
+
+## Also get in touch if... <a name="part4"></a>
+- ...you're interested in doing research with me :) <a href="http://cromanpa94.github.io/cromanpa/articles/" target="_blank">Feel free to check out my website!</a>
+- ...you're interested in doing research with someone I might know. I'll be happy to email them on your behalf.
+- ...you'd like me to write a letter of recommendation for you (end of semester?)
+- ...you're just looking to talk to someone!
+
+
+
