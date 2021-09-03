@@ -13,9 +13,9 @@ permalink: /about/
 
 ___
 
+
 ## Syllabus <a name="part1"></a>
 <a href="https://dmf2021.github.io/Fall2021INFO523_Aug.pdf" target="_blank">Here's the PDF</a>.
-
 
 ___
 
