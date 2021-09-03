@@ -5,7 +5,7 @@ permalink: /software/
 ---
 
 
-# Table of Contents
+##Table of Contents
 1. [Installing R and RStudio](#part1)
 2. [Installing R on Windows](#part2)
 3. [Installing R on macOS](#part3)
@@ -15,7 +15,7 @@ permalink: /software/
 5. [Installing R Packages](#part7)
 5. [Brief intro to R](#part8)
 
-<br /><br />
+<br /><br /><br /><br />
 
 ___
 

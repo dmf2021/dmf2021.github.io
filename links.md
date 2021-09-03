@@ -8,7 +8,7 @@ permalink: /links/
 1. [Course links](#part1)
 2. [Additional resources](#part2)
 2. [Nice cheatsheets!](#part3)
-<br /><br />
+<br /><br /><br /><br />
 ___
 
 ## Course links <a name="part1"></a>

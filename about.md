@@ -9,7 +9,7 @@ permalink: /about/
 2. [Schedule](#part2)
 3. [Finding help](#part3)
 4. [Get in touch!](#part4)
-<br /><br />
+<br /><br /><br /><br />
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 ## Schedule <a name="part2"></a>
 
-**Working on this**
+**Working on the link...**
 
 
 ___
