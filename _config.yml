@@ -39,9 +39,10 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : schedule
-    title: Schedule
-
+  - slug : software
+    title: Software
+  - slug : links
+    title: Links
 exclude:
   - "gulp"
   - "node_modules"
