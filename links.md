@@ -34,6 +34,7 @@ ___
 
  
 ## Nice cheatsheets! <a name="part3"></a>
+<a href="https://www.soa.org/globalassets/assets/Files/Edu/2018/exam-pa-base-r.pdf" target="_blank">R base cheatsheet</a><br />
 <a href="https://github.com/rstudio/cheatsheets/raw/master/data-visualization.pdf" target="_blank">Data visualization with ggplot2 cheatsheet</a><br />
 <a href="https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf" target="_blank">Data transformation with dplyr cheatsheet</a><br />
 <a href="https://github.com/rstudio/cheatsheets/raw/master/tidyr.pdf" target="_blank">Data tidying with tidyr cheatsheet</a><br />
