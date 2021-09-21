@@ -30,8 +30,8 @@ ___
 
 
 ## Finding help <a name="part3"></a>
-<a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
-<a href="r_tuto.html" target="_blank">D2L-UArizona (not updated)</a><br />
+<a href="piazza.com/arizona/fall2021/info523/home" target="_blank">Piazza</a><br />
+<a href="https://d2l.arizona.edu/d2l/home/1088245" target="_blank">D2L-UArizona</a><br />
 <a href="http://cromanpa94.github.io/cromanpa/contact/" target="_blank">Cristian's info</a><br />
 
 ___
