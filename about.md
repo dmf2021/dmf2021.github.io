@@ -9,7 +9,7 @@ ___
 
 
 ## Syllabus
-<a href="https://dmf2021.github.io/Fall2021INFO523_Oct14.pdf" target="_blank">Here's the PDF (Updated, Oct 14)</a>.
+<a href="https://dmf2021.github.io/Fall 2021 INFO 523_Oct14_V2.pdf" target="_blank">Here's the PDF (Updated, Oct 14)</a>.
 
 
 
