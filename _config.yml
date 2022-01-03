@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "Data Mining – Fall 2021"
+title_left    : "Data Mining – INFO523"
 title_right   : "" # default: ""
-description   : "Data mining – 2021."
+description   : "Data mining course."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://dmf2021.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
