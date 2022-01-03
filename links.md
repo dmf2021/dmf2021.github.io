@@ -12,9 +12,7 @@ permalink: /links/
 ___
 
 ## Course links <a name="part1"></a>
-<a href="r_tuto.html" target="_blank">Piazza (not updated)</a><br />
 <a href="r_tuto.html" target="_blank">D2L-UArizona (not updated)</a><br />
-<a href="r_tuto.html" target="_blank">Google Calendar (not updated)</a><br />
 <a href="http://cromanpa94.github.io/cromanpa/contact/" target="_blank">Cristian's info</a><br />
 
 
