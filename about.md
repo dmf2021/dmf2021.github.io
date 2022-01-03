@@ -9,7 +9,7 @@ ___
 
 
 ## Syllabus
-<a href="https://dmf2021.github.io/Spring 2022 INFO 523.pdf.pdf" target="_blank">Here's the PDF (Updated, Oct 14, V2)</a>.
+<a href="https://dmf2021.github.io/Spring 2022 INFO 523.pdf.pdf" target="_blank">Here's the PDF</a>.
 
 
 
