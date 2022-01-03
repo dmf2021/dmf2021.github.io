@@ -9,7 +9,7 @@ ___
 
 
 ## Syllabus
-<a href="https://dmf2021.github.io/Fall 2021 INFO 523_Oct14_V2.pdf" target="_blank">Here's the PDF (Updated, Oct 14, V2)</a>.
+<a href="https://dmf2021.github.io/Spring 2022 INFO 523.pdf.pdf" target="_blank">Here's the PDF (Updated, Oct 14, V2)</a>.
 
 
 
@@ -17,7 +17,6 @@ ___
 
 
 ## Finding help <a name="part3"></a>
-<a href="https://piazza.com/arizona/fall2021/info523/home" target="_blank">Piazza</a><br />
 <a href="https://d2l.arizona.edu/d2l/home/1088245" target="_blank">D2L-UArizona</a><br />
 <a href="http://cromanpa94.github.io/cromanpa/contact/" target="_blank">Cristian's info</a><br />
 
